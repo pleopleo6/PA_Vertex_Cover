@@ -1,0 +1,7 @@
+algorithm,graph_size,cover_size,cover_weight,time
+Pricing Method MWVC,10,5.0,28.47,0.0
+Pricing Method MWVC,100,90.0,481.97,0.02
+Pricing Method MWVC,1000,983.0,5502.53,5.67
+Refined Greedy MWVC,10,5.0,28.47,0.0
+Refined Greedy MWVC,100,89.0,485.4,0.01
+Refined Greedy MWVC,1000,982.0,5473.85,4.74
